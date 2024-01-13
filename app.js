@@ -54,3 +54,11 @@ document.addEventListener('DOMContentLoaded', function () {
         link.addEventListener('click', handleLinkClick);
     });
 });
+document.addEventListener('DOMContentLoaded', function () {
+    const chatButton = document.getElementById('chat-let-btn');
+
+    chatButton.addEventListener('click', function () {
+        const targetUrl = 'contact.html';  
+        window.location.href = targetUrl;
+    });
+});
