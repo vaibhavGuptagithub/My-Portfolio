@@ -14,7 +14,7 @@ Welcome to my personal portfolio! This repository houses the code for my interac
 
 ## How to View
 
-Visit [My Portfolio](#your-portfolio-url) to explore my work and get to know me better.
+Visit [My Portfolio](https://vaibhavguptagithub.github.io/My-Portfolio/) to explore my work and get to know me better.
 
 Feel free to connect and chat about how we can collaborate!
 
