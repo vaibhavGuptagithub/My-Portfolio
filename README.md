@@ -20,5 +20,4 @@ Feel free to connect and chat about how we can collaborate!
 
 ---
 
-**Note:** Customize the placeholder "#your-portfolio-url" with the actual URL of your deployed portfolio.
 
